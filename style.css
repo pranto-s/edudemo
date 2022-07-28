@@ -1,0 +1,142 @@
+body{ margin: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.top-cover{
+background-image: url("top-cover.png");
+  background-repeat: no-repea
+  
+}
+
+.get{
+  background-image: url("top2.png");
+}
+.last{
+  background-image: url("last.png");
+  background-repeat: no-repeat;
+}
+
+.orange-highlight {
+ color: #3858D6;
+ font-size: 50px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, #3858D6, #4EA1FA);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 0;
+
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+
+}
+.half-width img{
+  width:100%;
+}
+section{
+height: 500px;
+}
+h1{
+  color: white;
+  font-size: 30px;
+}
+h3{
+  color: wheat;
+}
+p{
+  color: white;
+  
+}
+.logo{
+  width: 25%;
+  padding: 18px;
+}
+
+nav{
+ width: 70%;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: -30px;
+}
+nav ul li{
+  display: inline-block;
+  list-style: none;
+  margin: 10px 20px;
+  
+}
+nav ul li a{
+  text-decoration: none;
+  color: white ;
+}
+.top2{
+  background-image: url("top2.png");
+  background-repeat: no-repeat;
+}
+.b{
+  color:black ;
+}
+.singel-experience {
+  box-shadow: 10px 10px  40px gray;
+  border-radius: 16px;
+  height: 80%;
+  background-color: white;
+}
+.we{
+  text-align: center;
+  color: white;
+padding-top: 15px;
+}
+.me{
+  color: black;
+}
+.get{
+  background-image: url(" end.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90%;
+  margin-top: 20px;
+}
+.link-butt{
+    text-decoration: none;
+  background-image: linear-gradient(45deg, #3858D6, #4EA1FA);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 0;
+}
+.ww{
+  padding-top:60px;
+}
+.link-butt {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, #4EA1FA,#3858D6);
+  padding: 10px 10px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 0;
+  
+
+}
+footer{
+  text-align: center;
+  font-size: 12px;
+  padding-bottom: 15px;
+}
+
+.dream{
+  background-image: url("dream.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+.dm{
+  font-size: px;
+  padding-top: 60px;
+}
